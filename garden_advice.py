@@ -1,5 +1,4 @@
-# Gardening advice app
-
+# Gardening tips application
 def gardening_tip(month):
 
     if month == "December":
